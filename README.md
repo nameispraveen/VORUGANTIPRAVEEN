@@ -16,7 +16,7 @@ I am a creative🎡, dedicated🎯, goal-oriented individual👩‍💻 with dec
 ## 🔥 Streak Stats
 
 <p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=VORUGANTIPRAVEEN&theme=gruvbox_duo&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=VORUGANTIPRAVEEN&theme=gruvbox_duo&hide_border=true&date_format=j%2Fn%5B%2FY%5D"></a>
   <p align="center"> If you can dream it, you can do it🔥 </p>
 </p>
 
