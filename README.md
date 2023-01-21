@@ -4,6 +4,7 @@ Hello, I'm Praveen shetty !
 
  <img src="https://gpvc.arturio.dev/praveenshettyv" alt="Profile views" align='right'/> <a href="https://github.com/praveenshettyv/praveenshettyvN/"> </a> 
 <br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2A25F7&width=435&lines=Computer+science+engineer;Always+open+to+learn+new+things;+Full+stack+developer;Java+spring+Hibernate+%7Creact-js+%7C+java+Script+%7Coracle" alt="Typing SVG" /></a>
 
 <p align="center">
   <a href="https://streak-stats.demolab.com?user=VORUGANTIPRAVEEN&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></a>
