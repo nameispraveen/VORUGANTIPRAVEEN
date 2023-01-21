@@ -2,7 +2,7 @@
 Hello, I'm Praveen shetty !
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
- <img src="https://gpvc.arturio.dev/VORUGANTIPRAVEEN" alt="Profile views" align='right'/> <a href="https://github.com/VORUGANTIPRAVEEN/VORUGANTIPRAVEEN/"> </a> 
+ <img src="https://gpvc.arturio.dev/praveenshettyv" alt="Profile views" align='right'/> <a href="https://github.com/praveenshettyv/praveenshettyvN/"> </a> 
 <br/>
 
 <p align="center">
