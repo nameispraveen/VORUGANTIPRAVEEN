@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... vorugantipraveenshetty@gmail.com // 9951478032
+<hr></hr>
 
 <!---
 VORUGANTIPRAVEEN/VORUGANTIPRAVEEN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
